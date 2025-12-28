@@ -25,5 +25,7 @@ This section highlights a **Sweatshirt** collection featuring front and back gra
 
 ### Render Gallery:
 | Front View | Back View |
-| :--- | :--- |
-<img width="2480" height="3508" alt="M32 MECK_Colorway A_1" src="https://github.com/user-attachments/assets/1007f742-77ab-49e1-a76b-daa5680cb117" />
+| <img width="2480" height="3508" alt="M32 MECK_Colorway A Copy 1_0" src="https://github.com/user-attachments/assets/76c14ee1-1a8f-4ea4-9246-00e4909503e9" />
+| <img width="2480" height="3508" alt="M32 MECK_Colorway A Copy 1_1" src="https://github.com/user-attachments/assets/d4b92ff3-abf0-4704-91bb-e4b6681b6ef0" />
+|
+
