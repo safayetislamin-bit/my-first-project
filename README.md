@@ -14,3 +14,4 @@ This repository showcases my professional work in digital fashion using **CLO 3D
 
 ---
 *Developed by Safayet Islam*
+<img width="900" height="900" alt="M136" src="https://github.com/user-attachments/assets/d7704d88-da69-479f-abff-e106c854b2ff" />
